@@ -1,1 +1,1 @@
-Curso Angular Indra
+Curso Angular 2 Indra
